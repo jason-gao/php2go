@@ -1,3 +1,3 @@
-module github.com/syyongx/php2go
+module github.com/jason-gao/php2go
 
 go 1.12
